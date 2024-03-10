@@ -5,7 +5,13 @@ This repository contains a robust system for real-time event extraction, categor
 Features:
 
 Continuous retrieval of news data from public sources and Airrchip APIs.
+
 Utilization of NLP techniques and LLM for event tagging, categorization, and analysis.
+
 Construction of a dynamic network graph using the networkx library.
+
 Application of network analysis techniques to determine the significance of event connections.
+
 Intuitive user interface for interactive exploration and visualization of the network graph.
+
+
